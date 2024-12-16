@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-26T12:32:11 IST" name="Surefire suite" finished-at="2024-11-26T12:32:21 IST" duration-ms="9638">
+    <groups>
+    </groups>
+    <test started-at="2024-11-26T12:32:11 IST" name="Surefire test" finished-at="2024-11-26T12:32:21 IST" duration-ms="9638">
+      <class name="Maven_p3.DemoTest">
+        <test-method is-config="true" signature="begin()[pri:0, instance:Maven_p3.DemoTest@77167fb7]" started-at="2024-11-26T12:32:11 IST" name="begin" finished-at="2024-11-26T12:32:13 IST" duration-ms="1831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- begin -->
+        <test-method signature="mid_1()[pri:0, instance:Maven_p3.DemoTest@77167fb7]" started-at="2024-11-26T12:32:13 IST" name="mid_1" finished-at="2024-11-26T12:32:20 IST" duration-ms="7448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mid_1 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:Maven_p3.DemoTest@77167fb7]" started-at="2024-11-26T12:32:20 IST" name="end" finished-at="2024-11-26T12:32:21 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Maven_p3.DemoTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
